@@ -1,0 +1,9 @@
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject.Tests\bin\Debug\Mvc_Ninject.Tests.dll.config
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject.Tests\bin\Debug\Mvc_Ninject.Tests.dll
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject.Tests\bin\Debug\Mvc_Ninject.Tests.pdb
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject.Tests\bin\Debug\Mvc_Ninject.dll
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject.Tests\bin\Debug\Ninject.dll
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject.Tests\bin\Debug\Mvc_Ninject.pdb
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject.Tests\obj\Debug\Mvc_Ninject.Tests.dll
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject.Tests\obj\Debug\Mvc_Ninject.Tests.pdb

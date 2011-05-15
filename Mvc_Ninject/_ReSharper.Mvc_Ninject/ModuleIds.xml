@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="CFDCF1A1-12C3-4470-8658-3EA52437D760" ModuleId="Mvc_Ninject" />
+  <Module PersistentId="F3206EC8-8016-4161-BFDA-A2103D236C36" ModuleId="Mvc_Ninject.Tests" />
+</Modules>

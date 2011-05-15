@@ -1,0 +1,8 @@
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject\bin\Mvc_Ninject.dll
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject\bin\Mvc_Ninject.pdb
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject\bin\EntityFramework.dll
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject\bin\Ninject.dll
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject\bin\EntityFramework.xml
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject\obj\Debug\Mvc_Ninject.dll
+C:\Users\Frank\Mvc3WithNinject\Mvc_Ninject\Mvc_Ninject\obj\Debug\Mvc_Ninject.pdb
